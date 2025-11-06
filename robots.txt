@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sos286315-alt.github.io/vege-market/sitemap.xml
